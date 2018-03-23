@@ -1,0 +1,170 @@
+Sid's Backyard
+Inspect the BBQ
+You have found one green man laying on the BBQ! The green man has been added to your inventory.
+0
+0
+1
+0
+""
+0
+0
+Sid's Backyard
+Go and look in the sandbox
+You were bit by a rouge toy! You will loose 1 Health Point.
+0
+0
+0
+-1
+""
+0
+0
+Sid's Backyard
+Check the shed
+Nothing is in the shed. Get back to work solider!
+0
+0
+0
+0
+""
+0
+0
+Sid's House
+Go and look in Sid's Room
+You have found a ladder. This might come in handy later.
+0
+1
+0
+0
+Ladder
+0
+0
+Sid's House
+Inspect the house entrance
+Lightbulb falls on top of you and you sustain wounds. You lose 1 Health Point.
+0
+0
+0
+-1
+""
+0
+0
+Sid's House
+Inspect the bathrrom
+Nothing here.
+0
+0
+0
+0
+""
+0
+0
+Andy's House
+Inspect Andy's Room
+You found Buzz Lightyear! He's in a great mood and gives you a pep talk. You gain 1 Health Point.
+0
+0
+0
+1
+""
+0
+0
+Andy's House
+Inspect Potted Plant
+Nothing is here in the potted plant.
+0
+0
+0
+0
+""
+0
+0
+Andy's House
+Inspect the interior of the kitchen
+Nothing is here.
+0
+0
+0
+0
+""
+0
+0
+Andy's House
+Inspect the balcony area
+You trip and fall off the balcony and fall down to the first floor. Major health is lost. You lose 5 Health Points.
+0
+0
+0
+-5
+""
+0
+0
+Andy's Front Yard
+Inspect the tree
+You climb up your ladder and find one of your fellow soliders hiding in the branches! Good work! Solider Recovered!
+Ladder
+0
+1
+0
+""
+0
+0
+Andy's Front Yard
+Inspect the driveway
+You pick up a quarter on the driveway. This could come in handy later.
+0
+1
+0
+0
+Coin
+0
+0
+Andy's Front Yard
+Inspect the gutter near the street
+You find something that looks interesting, but you see the neighboor washing their car. A huge wave drowns you. You recover but loose 3 Health Points.
+0
+0
+0
+-3
+""
+0
+0
+Road to Pizza Port
+Hop in the back of the Pizza Port Truck
+You find another coin!
+0
+1
+0
+0
+Coin
+0
+0
+Road to Pizza Port
+Hop in the front seat of the Pizza Port Truck
+You find evidence of your men. There's a fallen med pack here worth 5 Health Points when you need it.
+0
+1
+0
+0
+Med Pack
+5
+0
+Pizza Port
+Inspect the Kitchen
+You found a pepperoni on the floor, this gives you 2 Health Points.
+0
+0
+0
+2
+""
+0
+0
+Pizza Port
+Look at the Crane Game
+You see two Green Men in the Crane Game, but its guarded by the Evil Emporer Zurg. You will have to fight! Prepare for battle
+Coin
+0
+0
+0
+""
+0
+1
